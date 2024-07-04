@@ -8,3 +8,9 @@
 
 - Code Editor: VS Code
 - Browsers: Chrome
+- Version Control: Git and Github
+- VS Code Extension: Liveserver, Prettir Code Formatter
+
+6. Basic HTML structure
+
+- head, body, footer

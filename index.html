@@ -6,15 +6,111 @@
     <title>My Potfolio</title>
   </head>
   <body>
-    welcome to my portfolio
+    <!--Section: navbar-->
+    <nav>
+      <ul>
+      <li>
+        <a href="#abut">About</a>
+        </li>
+        <li>
+        <a href="#skills">My Skills</a>
+        </li>
+        <li>
+        <a href="#projects">My Projects</a>
+        </li>
+      <li>
+        <a href="#contacts">Contacts Me</a>
+        </li>
+      </ul>
+    </nav>
     <!--Section: intro-->
-    <h1>Md.Saifullah</h1>
-    <p>Web developer and app developer</p>
-
+    <header id="intro">
+      <h1>Md.Saifullah</h1>
+      <p><em>developer and app developer</em></p>
+      <img src="./Photos/mypic.png" alt="Profile Photo" height="150" />
+      <hr />
+    </header>
     <!--Section: about me-->
-
+    <section id="about">
+      <h2>About Me</h2>
+      <p>
+        <strong>Experience:</strong>
+        5 years experience in wev development.
+      </p>
+      <p>
+        <strong>Education:</strong>
+        B.S.C In CSE University of Scholars.
+      </p>
+    </section>
     <!--Section: Skills-->
-
+    <section id="skills">
+      <h2>Skills</h2>
+      </ul><table border="1" cellpadding="5" cellspacing="0">
+      <thead>
+        <tr>
+          <th>Technology</th>
+          <th>Proficiency</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>HTML</td>
+          <td>Expert</td>
+        </tr>
+        <tr>
+          <td>CSS</td>
+          <td>Expert</td>
+        </tr>
+        <tr>
+          <td>JavaScript</td>
+          <td>Expert</td>
+        </tr>
+        <tr>
+          <td>React</td>
+          <td>Expert</td>
+        </tr>
+      </tbody>
+    </table>
+    </section>
+    <!--Section: projects-->
+    <section id="projects">
+      <h2>Projects</h2>
+      <ul>
+        <li>
+          <a href="#">Project 1</a>
+        </li>
+        <li>
+          <a href="#">Project 2</a>
+        </li>
+        <li>
+          <a href="#">Project 3</a>
+        </li>
+      </ul>
+    </section>
     <!--Section: Contacts-->
+    <section id="contacts">
+      <h2>Contacts</h2>
+      <form>
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="name" required />
+        <br />
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email" required />
+        <br />
+        <label for="message">Message:</label>
+        <textarea id="message" name="message" required></textarea>
+        <br />
+        <input type="submit" value="Submit" />
+      </form>
+    </section>
+       <!--Section: footer-->
+       <footer>
+         <p>Copyright reserved by &copy; Saifullah2024</p>
+         <a href="tel:01856453484">Call Me</a>
+         <a href="mailto:Saifullahshah772@gmail.com">Email Me</a>
+       </footer>
+     </section>
+
+    
   </body>
 </html>

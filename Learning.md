@@ -1,6 +1,6 @@
 # HTML Learnings
 
-1. web design fundamental - HTML, css, javascript
+1. web design fundamental - HTML, CSS, Javascript
 2. What is HTML? Why HTML ?
 3. History of HTML
 4. Advantage of HTML
@@ -13,4 +13,27 @@
 
 6. Basic HTML structure
 
-- head, body, footer
+- head, body
+
+7. Basic Tag, Styling, Debuging
+
+- Type of tag
+- Attributes
+- Element, Content
+- Debugging
+- Comment
+
+8. Heading, Paragraph, Line Break, Horizontal Rule
+9. Semantic HTML VS Non-Semantic HTML
+10. Text formatting Tags
+11. List
+
+- Ordered list, Unordered list, Definition, Nested
+
+12. Link and Navigation
+
+- absolut link vs realtime link
+
+13. Table
+14. Form
+15. Deploy

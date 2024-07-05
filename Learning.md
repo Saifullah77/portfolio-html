@@ -1,5 +1,7 @@
 # HTML Learnings
 
+## Basic HTML
+
 1. web design fundamental - HTML, CSS, Javascript
 2. What is HTML? Why HTML ?
 3. History of HTML
@@ -34,6 +36,17 @@
 
 - absolut link vs realtime link
 
-13. Table
-14. Form
-15. Deploy
+13. Image
+14. Table
+15. Form
+16. Deploy
+
+## Intermediate HTML
+
+- Meta tag & seo
+- Adding font-awesome icons and google fonts
+- Advanced Table
+- Advanced Form
+- Form data sent to your email
+- Multimedia
+- HTML5 Element
